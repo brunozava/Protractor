@@ -5,8 +5,7 @@ API link: http://angular.github.io/protractor/#/api          -> Todas as informa
 
 1) Install Java;
 2) Install node;
-3) Install protractor
-    npm install -g protractor
+3) Install protractor: npm install -g protractor
  
 4) Execute the command:
     webdriver-manager update   -> Pois ele gerencia os drivers do Selenium para a execuçao dos testes;
